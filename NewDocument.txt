@@ -1,1 +1,3 @@
 Create New Document
+
+Add Charactor on new document
